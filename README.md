@@ -34,7 +34,7 @@ For **each metric** in the financial statements:
     topics (List[str]): Relevant topics (e.g., "earnings", "dividends").
     sentiment (str): Sentiment ("Buy", "Sell", "Hold").
     rating (int): Numerical rating on a 0-10 scale.
-    timeframe (str): Signal relevance timeframe ('1D', '1W', '1M', '1Q'
+    timeframe (str): Signal relevance timeframe ('1D', '1W', '1M', '1Q')
 }
 ```
 
@@ -77,4 +77,70 @@ An example given below -
 | **Step 2: SIGNAL Generation** | **30%** | Accuracy and creativity in processing data, sentiment, and ratings. |
 | **Step 1: Data Extraction**   | **15%** | Correctness, error handling, and API integration.                   |
 | **Performance & Security**    | **5%**  | Use of parallel processing and secure handling of API keys.         |
+
 # finance-script
+
+# enpoints response example
+
+1. income statement : https://financialmodelingprep.com/api/v3/income-statement/AAPL?period=annual&limit=2&apikey=tmIIs05kYebFj37cmQkKhdoP2L8R502Z
+
+```json
+[
+  {
+    "date": "2020-09-26",
+    "symbol": "AAPL",
+    "reportedCurrency": "USD",
+    "cik": "0000320193",
+    "fillingDate": "2020-10-30",
+    "acceptedDate": "2020-10-29 18:06:25",
+    "calendarYear": "2020",
+    "period": "FY",
+    "cashAndCashEquivalents": 38016000000,
+    "shortTermInvestments": 52927000000,
+    "cashAndShortTermInvestments": 90943000000,
+    "netReceivables": 37445000000,
+    "inventory": 4061000000,
+    "otherCurrentAssets": 11264000000,
+    "totalCurrentAssets": 143713000000,
+    "propertyPlantEquipmentNet": 45336000000,
+    "goodwill": 0,
+    "intangibleAssets": 0,
+    "goodwillAndIntangibleAssets": 0,
+    "longTermInvestments": 100887000000,
+    "taxAssets": 0,
+    "otherNonCurrentAssets": 33952000000,
+    "totalNonCurrentAssets": 180175000000,
+    "otherAssets": 0,
+    "totalAssets": 323888000000,
+    "accountPayables": 42296000000,
+    "shortTermDebt": 15229000000,
+    "taxPayables": 0,
+    "deferredRevenue": 6643000000,
+    "otherCurrentLiabilities": 41224000000,
+    "totalCurrentLiabilities": 105392000000,
+    "longTermDebt": 107049000000,
+    "deferredRevenueNonCurrent": 0,
+    "deferredTaxLiabilitiesNonCurrent": 0,
+    "otherNonCurrentLiabilities": 46108000000,
+    "totalNonCurrentLiabilities": 153157000000,
+    "otherLiabilities": 0,
+    "capitalLeaseObligations": 9842000000,
+    "totalLiabilities": 258549000000,
+    "preferredStock": 0,
+    "commonStock": 50779000000,
+    "retainedEarnings": 14966000000,
+    "accumulatedOtherComprehensiveIncomeLoss": -406000000,
+    "othertotalStockholdersEquity": 0,
+    "totalStockholdersEquity": 65339000000,
+    "totalEquity": 65339000000,
+    "totalLiabilitiesAndStockholdersEquity": 323888000000,
+    "minorityInterest": 0,
+    "totalLiabilitiesAndTotalEquity": 323888000000,
+    "totalInvestments": 153814000000,
+    "totalDebt": 122278000000,
+    "netDebt": 84262000000,
+    "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/0000320193-20-000096-index.htm",
+    "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+  }
+]
+```
