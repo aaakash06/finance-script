@@ -14,7 +14,7 @@ class FinancialSignalGenerator:
 
     def fetch_financial_data(self, statement_type: str) -> List[Dict]:
         """Fetch financial statements from FMP API"""
-        endpoint = f"{self.BASE_URL}/{statement_type}/{self.symbol}?limit=2&apikey={self.API_KEY}"
+        endpoint = f"{self.BASE_URL}/{statement_type}/{self.symbol}?period=annual&limit=2&apikey={self.API_KEY}"
         
         try:
             response = requests.get(endpoint)
