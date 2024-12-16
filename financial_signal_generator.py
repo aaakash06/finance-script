@@ -13,3 +13,7 @@ class FinancialSignalGenerator:
     def generate_signals(self):
         pass
 
+
+if __name__ == "__main__":
+    generator = FinancialSignalGenerator()
+    generator.run()
