@@ -82,7 +82,7 @@ An example given below -
 
 # enpoints response example
 
-1. income statement : https://financialmodelingprep.com/api/v3/income-statement/AAPL?period=annual&limit=2&apikey=tmIIs05kYebFj37cmQkKhdoP2L8R502Z
+1. balance sheet : https://financialmodelingprep.com/api/v3/balance-sheet-statement/AAPL?period=annual&limit=2&apikey=tmIIs05kYebFj37cmQkKhdoP2L8R502Z
 
 ```json
 [
@@ -141,6 +141,102 @@ An example given below -
     "netDebt": 84262000000,
     "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/0000320193-20-000096-index.htm",
     "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+  }
+]
+```
+
+2. income statement : https://financialmodelingprep.com/api/v3/income-statement/AAPL?period=annual&limit=2&apikey=tmIIs05kYebFj37cmQkKhdoP2L8R502Z
+
+```json
+[
+  {
+    "date": "2024-09-28",
+    "symbol": "AAPL",
+    "reportedCurrency": "USD",
+    "cik": "0000320193",
+    "fillingDate": "2024-11-01",
+    "acceptedDate": "2024-11-01 06:01:36",
+    "calendarYear": "2024",
+    "period": "FY",
+    "revenue": 391035000000,
+    "costOfRevenue": 210352000000,
+    "grossProfit": 180683000000,
+    "grossProfitRatio": 0.4620634982,
+    "researchAndDevelopmentExpenses": 31370000000,
+    "generalAndAdministrativeExpenses": 0,
+    "sellingAndMarketingExpenses": 0,
+    "sellingGeneralAndAdministrativeExpenses": 26097000000,
+    "otherExpenses": 0,
+    "operatingExpenses": 57467000000,
+    "costAndExpenses": 267819000000,
+    "interestIncome": 0,
+    "interestExpense": 0,
+    "depreciationAndAmortization": 11445000000,
+    "ebitda": 134661000000,
+    "ebitdaratio": 0.3443707085,
+    "operatingIncome": 123216000000,
+    "operatingIncomeRatio": 0.3151022287,
+    "totalOtherIncomeExpensesNet": 269000000,
+    "incomeBeforeTax": 123485000000,
+    "incomeBeforeTaxRatio": 0.3157901467,
+    "incomeTaxExpense": 29749000000,
+    "netIncome": 93736000000,
+    "netIncomeRatio": 0.2397125577,
+    "eps": 6.11,
+    "epsdiluted": 6.08,
+    "weightedAverageShsOut": 15343783000,
+    "weightedAverageShsOutDil": 15408095000,
+    "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm",
+    "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+  }
+]
+```
+
+3. cash flow statement : https://financialmodelingprep.com/api/v3/cash-flow-statement/AAPL?period=annual&limit=2&apikey=tmIIs05kYebFj37cmQkKhdoP2L8R502Z
+
+```json
+[
+  {
+    "date": "2024-09-28",
+    "symbol": "AAPL",
+    "reportedCurrency": "USD",
+    "cik": "0000320193",
+    "fillingDate": "2024-11-01",
+    "acceptedDate": "2024-11-01 06:01:36",
+    "calendarYear": "2024",
+    "period": "FY",
+    "netIncome": 93736000000,
+    "depreciationAndAmortization": 11445000000,
+    "deferredIncomeTax": 0,
+    "stockBasedCompensation": 11688000000,
+    "changeInWorkingCapital": 3651000000,
+    "accountsReceivables": -5144000000,
+    "inventory": -1046000000,
+    "accountsPayables": 6020000000,
+    "otherWorkingCapital": 3821000000,
+    "otherNonCashItems": -2266000000,
+    "netCashProvidedByOperatingActivities": 118254000000,
+    "investmentsInPropertyPlantAndEquipment": -9447000000,
+    "acquisitionsNet": 0,
+    "purchasesOfInvestments": -48656000000,
+    "salesMaturitiesOfInvestments": 62346000000,
+    "otherInvestingActivites": -1308000000,
+    "netCashUsedForInvestingActivites": 2935000000,
+    "debtRepayment": -5998000000,
+    "commonStockIssued": 0,
+    "commonStockRepurchased": -94949000000,
+    "dividendsPaid": -15234000000,
+    "otherFinancingActivites": -5802000000,
+    "netCashUsedProvidedByFinancingActivities": -121983000000,
+    "effectOfForexChangesOnCash": 0,
+    "netChangeInCash": -794000000,
+    "cashAtEndOfPeriod": 29943000000,
+    "cashAtBeginningOfPeriod": 30737000000,
+    "operatingCashFlow": 118254000000,
+    "capitalExpenditure": -9447000000,
+    "freeCashFlow": 108807000000,
+    "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm",
+    "finalLink": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
   }
 ]
 ```
