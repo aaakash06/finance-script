@@ -1,0 +1,1124 @@
+[
+  {
+    "summary": "AAPL revenue increased from 383,285,000,000.00 to 391,035,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "revenue"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL costOfRevenue decreased from 214,137,000,000.00 to 210,352,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "costOfRevenue"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL grossProfit increased from 169,148,000,000.00 to 180,683,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "grossProfit"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL grossProfitRatio increased from 0.44 to 0.46 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "grossProfitRatio"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL researchAndDevelopmentExpenses increased from 29,915,000,000.00 to 31,370,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "researchAndDevelopmentExpenses"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL generalAndAdministrativeExpenses decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "generalAndAdministrativeExpenses"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL sellingAndMarketingExpenses decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "sellingAndMarketingExpenses"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL sellingGeneralAndAdministrativeExpenses increased from 24,932,000,000.00 to 26,097,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "sellingGeneralAndAdministrativeExpenses"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherExpenses decreased from 382,000,000.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "otherExpenses"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL operatingExpenses increased from 54,847,000,000.00 to 57,467,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "operatingExpenses"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL costAndExpenses decreased from 268,984,000,000.00 to 267,819,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "costAndExpenses"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL interestIncome decreased from 3,750,000,000.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "interestIncome"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL interestExpense decreased from 3,933,000,000.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "interestExpense"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL depreciationAndAmortization decreased from 11,519,000,000.00 to 11,445,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "depreciationAndAmortization"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL ebitda increased from 125,820,000,000.00 to 134,661,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "ebitda"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL ebitdaratio increased from 0.33 to 0.34 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "ebitdaratio"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL operatingIncome increased from 114,301,000,000.00 to 123,216,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "operatingIncome"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL operatingIncomeRatio increased from 0.30 to 0.32 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "operatingIncomeRatio"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalOtherIncomeExpensesNet increased from -565,000,000.00 to 269,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "totalOtherIncomeExpensesNet"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL incomeBeforeTax increased from 113,736,000,000.00 to 123,485,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "incomeBeforeTax"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL incomeBeforeTaxRatio increased from 0.30 to 0.32 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "incomeBeforeTaxRatio"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL incomeTaxExpense increased from 16,741,000,000.00 to 29,749,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "incomeTaxExpense"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netIncome decreased from 96,995,000,000.00 to 93,736,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "netIncome"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netIncomeRatio decreased from 0.25 to 0.24 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "netIncomeRatio"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL eps decreased from 6.16 to 6.11 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "eps"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL epsdiluted decreased from 6.13 to 6.08 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "epsdiluted"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL weightedAverageShsOut decreased from 15,744,231,000.00 to 15,343,783,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "weightedAverageShsOut"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL weightedAverageShsOutDil decreased from 15,812,547,000.00 to 15,408,095,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Income Statement",
+      "weightedAverageShsOutDil"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL cashAndCashEquivalents decreased from 29,965,000,000.00 to 29,943,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "cashAndCashEquivalents"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL shortTermInvestments increased from 31,590,000,000.00 to 35,228,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "shortTermInvestments"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL cashAndShortTermInvestments increased from 61,555,000,000.00 to 65,171,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "cashAndShortTermInvestments"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netReceivables increased from 60,985,000,000.00 to 66,243,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "netReceivables"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL inventory increased from 6,331,000,000.00 to 7,286,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "inventory"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherCurrentAssets decreased from 14,695,000,000.00 to 14,287,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "otherCurrentAssets"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalCurrentAssets increased from 143,566,000,000.00 to 152,987,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalCurrentAssets"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL propertyPlantEquipmentNet decreased from 54,376,000,000.00 to 45,680,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "propertyPlantEquipmentNet"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL goodwill decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "goodwill"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL intangibleAssets decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "intangibleAssets"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL goodwillAndIntangibleAssets decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "goodwillAndIntangibleAssets"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL longTermInvestments decreased from 100,544,000,000.00 to 91,479,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "longTermInvestments"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL taxAssets increased from 17,852,000,000.00 to 19,499,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "taxAssets"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherNonCurrentAssets increased from 36,245,000,000.00 to 55,335,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "otherNonCurrentAssets"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalNonCurrentAssets increased from 209,017,000,000.00 to 211,993,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalNonCurrentAssets"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherAssets decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "otherAssets"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalAssets increased from 352,583,000,000.00 to 364,980,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalAssets"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL accountPayables increased from 62,611,000,000.00 to 68,960,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "accountPayables"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL shortTermDebt increased from 17,382,000,000.00 to 20,879,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "shortTermDebt"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL taxPayables increased from 8,819,000,000.00 to 26,601,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "taxPayables"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL deferredRevenue increased from 8,061,000,000.00 to 8,249,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "deferredRevenue"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherCurrentLiabilities increased from 48,435,000,000.00 to 51,703,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "otherCurrentLiabilities"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalCurrentLiabilities increased from 145,308,000,000.00 to 176,392,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalCurrentLiabilities"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL longTermDebt decreased from 106,548,000,000.00 to 96,548,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "longTermDebt"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL deferredRevenueNonCurrent decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "deferredRevenueNonCurrent"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL deferredTaxLiabilitiesNonCurrent decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "deferredTaxLiabilitiesNonCurrent"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherNonCurrentLiabilities decreased from 38,581,000,000.00 to 35,090,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "otherNonCurrentLiabilities"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalNonCurrentLiabilities decreased from 145,129,000,000.00 to 131,638,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalNonCurrentLiabilities"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherLiabilities decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "otherLiabilities"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL capitalLeaseObligations decreased from 12,842,000,000.00 to 10,798,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "capitalLeaseObligations"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalLiabilities increased from 290,437,000,000.00 to 308,030,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalLiabilities"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL preferredStock decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "preferredStock"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL commonStock increased from 73,812,000,000.00 to 83,276,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "commonStock"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL retainedEarnings decreased from -214,000,000.00 to -19,154,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "retainedEarnings"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL accumulatedOtherComprehensiveIncomeLoss increased from -11,452,000,000.00 to -7,172,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "accumulatedOtherComprehensiveIncomeLoss"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL othertotalStockholdersEquity decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "othertotalStockholdersEquity"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalStockholdersEquity decreased from 62,146,000,000.00 to 56,950,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalStockholdersEquity"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalEquity decreased from 62,146,000,000.00 to 56,950,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalEquity"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalLiabilitiesAndStockholdersEquity increased from 352,583,000,000.00 to 364,980,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalLiabilitiesAndStockholdersEquity"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL minorityInterest decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "minorityInterest"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalLiabilitiesAndTotalEquity increased from 352,583,000,000.00 to 364,980,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalLiabilitiesAndTotalEquity"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalInvestments decreased from 132,134,000,000.00 to 126,707,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalInvestments"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL totalDebt decreased from 111,088,000,000.00 to 106,629,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "totalDebt"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netDebt decreased from 81,123,000,000.00 to 76,686,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Balance Sheet",
+      "netDebt"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netIncome decreased from 96,995,000,000.00 to 93,736,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "netIncome"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL depreciationAndAmortization decreased from 11,519,000,000.00 to 11,445,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "depreciationAndAmortization"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL deferredIncomeTax decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "deferredIncomeTax"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL stockBasedCompensation increased from 10,833,000,000.00 to 11,688,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "stockBasedCompensation"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL changeInWorkingCapital increased from -6,577,000,000.00 to 3,651,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "changeInWorkingCapital"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL accountsReceivables decreased from -1,688,000,000.00 to -5,144,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "accountsReceivables"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL inventory increased from -1,618,000,000.00 to -1,046,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "inventory"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL accountsPayables increased from -1,889,000,000.00 to 6,020,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "accountsPayables"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherWorkingCapital increased from -2,653,000,000.00 to 3,821,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "otherWorkingCapital"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherNonCashItems decreased from -2,227,000,000.00 to -2,266,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "otherNonCashItems"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netCashProvidedByOperatingActivities increased from 110,543,000,000.00 to 118,254,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "netCashProvidedByOperatingActivities"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL investmentsInPropertyPlantAndEquipment increased from -10,959,000,000.00 to -9,447,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "investmentsInPropertyPlantAndEquipment"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL acquisitionsNet decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "acquisitionsNet"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL purchasesOfInvestments decreased from -29,513,000,000.00 to -48,656,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "purchasesOfInvestments"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL salesMaturitiesOfInvestments increased from 45,514,000,000.00 to 62,346,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "salesMaturitiesOfInvestments"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherInvestingActivites increased from -1,337,000,000.00 to -1,308,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "otherInvestingActivites"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netCashUsedForInvestingActivites decreased from 3,705,000,000.00 to 2,935,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "netCashUsedForInvestingActivites"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL debtRepayment increased from -9,901,000,000.00 to -5,998,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "debtRepayment"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL commonStockIssued decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "commonStockIssued"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL commonStockRepurchased decreased from -77,550,000,000.00 to -94,949,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "commonStockRepurchased"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL dividendsPaid decreased from -15,025,000,000.00 to -15,234,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "dividendsPaid"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL otherFinancingActivites increased from -6,012,000,000.00 to -5,802,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "otherFinancingActivites"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netCashUsedProvidedByFinancingActivities decreased from -108,488,000,000.00 to -121,983,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "netCashUsedProvidedByFinancingActivities"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL effectOfForexChangesOnCash decreased from 0.00 to 0.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "effectOfForexChangesOnCash"
+    ],
+    "sentiment": "Hold",
+    "rating": 5,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL netChangeInCash decreased from 5,760,000,000.00 to -794,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "netChangeInCash"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL cashAtEndOfPeriod decreased from 30,737,000,000.00 to 29,943,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "cashAtEndOfPeriod"
+    ],
+    "sentiment": "Hold",
+    "rating": 4,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL cashAtBeginningOfPeriod increased from 24,977,000,000.00 to 30,737,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "cashAtBeginningOfPeriod"
+    ],
+    "sentiment": "Buy",
+    "rating": 8,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL operatingCashFlow increased from 110,543,000,000.00 to 118,254,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "operatingCashFlow"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL capitalExpenditure increased from -10,959,000,000.00 to -9,447,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "capitalExpenditure"
+    ],
+    "sentiment": "Sell",
+    "rating": 2,
+    "timeframe": "1Y"
+  },
+  {
+    "summary": "AAPL freeCashFlow increased from 99,584,000,000.00 to 108,807,000,000.00 in the last year.",
+    "symbol": "AAPL",
+    "topics": [
+      "Cash Flow",
+      "freeCashFlow"
+    ],
+    "sentiment": "Buy",
+    "rating": 6,
+    "timeframe": "1Y"
+  }
+]
