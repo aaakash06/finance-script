@@ -79,7 +79,7 @@ class FinancialSignalGenerator:
             
             # Process numerical metrics
             for key in current_year.keys():
-                if isinstance(current_year[key], (int, float)) and key not in ['date', 'period']:
+                if isinstance(current_year[key], (int, float)) and key not in ['date', 'period', 'link', 'finalLink', 'fillingDate', 'acceptedDate', 'calendarYear', 'cik', 'reportedCurrency']:
                     try:
                         current_value = float(current_year[key])
                         previous_value = float(previous_year[key])
