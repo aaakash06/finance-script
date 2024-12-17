@@ -42,6 +42,46 @@ class FinancialSignalGenerator:
         }
 
 
+    def process_statements(self) -> List[Dict]:
+        """Process all financial statements and generate signals"""
+        statements = {
+            "income-statement": "Income Statement",
+            "balance-sheet-statement": "Balance Sheet",
+            "cash-flow-statement": "Cash Flow"
+        }
+        
+        signals = []
+        
+        for endpoint, statement_type in statements.items():
+            data = self.fetch_financial_data(endpoint)
+            
+            if len(data) < 2:
+                continue
+                
+            current_year = data[0]
+            previous_year = data[1]
+            
+            # Process numerical metrics
+            for key in current_year.keys():
+                if isinstance(current_year[key], (int, float)) and key not in ['date', 'period']:
+                    try:
+                        current_value = float(current_year[key])
+                        previous_value = float(previous_year[key])
+                        
+                        signal = self.generate_signal(
+                            key, 
+                            current_value,
+                            previous_value,
+                            statement_type
+                        )
+                        signals.append(signal)
+                    except (ValueError, TypeError):
+                        continue
+        
+        return signals
+
+
+
 if __name__ == "__main__":
     generator = FinancialSignalGenerator()
     generator.run()
