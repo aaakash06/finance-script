@@ -24,6 +24,24 @@ class FinancialSignalGenerator:
             print(f"Error fetching {statement_type}: {e}")
             return []
 
+
+
+    def generate_signal(self, metric: str, current: float, previous: float, 
+                       statement_type: str) -> Dict:
+        """Generate a SIGNAL dictionary for a metric"""
+        sentiment, rating = self.calculate_trend(current, previous)
+        
+        return {
+            "summary": f"AAPL {metric} {'increased' if current > previous else 'decreased'} "
+                      f"from {previous:,.2f} to {current:,.2f} in the last year.",
+            "symbol": self.symbol,
+            "topics": [statement_type, metric],
+            "sentiment": sentiment,
+            "rating": rating,
+            "timeframe": "1Y"
+        }
+
+
 if __name__ == "__main__":
     generator = FinancialSignalGenerator()
     generator.run()
