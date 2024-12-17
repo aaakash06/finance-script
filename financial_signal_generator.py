@@ -1,3 +1,4 @@
+import json
 import os
 from dotenv import load_dotenv
 import requests
@@ -80,6 +81,26 @@ class FinancialSignalGenerator:
         
         return signals
 
+    def run(self):
+        """Main execution method"""
+        signals = self.process_statements()
+        
+        # Save signals to JSON file
+        with open('signals.json', 'w') as f:
+            json.dump(signals, f, indent=2)
+        
+        print(f"Generated {len(signals)} signals and saved to signals.json")
+        
+        # Print first 3 signals as examples
+        print("\nExample Signals:")
+        for signal in signals[:3]:
+            print(json.dumps(signal, indent=2))
+        
+        # Print expansion ideas
+        print("\nExpansion Ideas:")
+        print("1. Implement machine learning models to predict future metric trends")
+        print("2. Add sentiment analysis from news and social media to enhance signals")
+        print("3. Scale to analyze multiple companies and identify sector-wide trends")
 
 
 if __name__ == "__main__":
