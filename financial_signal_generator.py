@@ -26,7 +26,22 @@ class FinancialSignalGenerator:
             return []
 
 
-
+    def calculate_trend(self, current: float, previous: float) -> tuple:
+        """Calculate trend and determine sentiment"""
+        if current == previous:
+            return "Hold", 5
+        
+        percent_change = ((current - previous) / previous) * 100
+        
+        if percent_change > 10:
+            return "Buy", 8
+        elif percent_change > 0:
+            return "Buy", 6
+        elif percent_change > -10:
+            return "Hold", 4
+        else:
+            return "Sell", 2
+        
     def generate_signal(self, metric: str, current: float, previous: float, 
                        statement_type: str) -> Dict:
         """Generate a SIGNAL dictionary for a metric"""
